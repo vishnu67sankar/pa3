@@ -1,0 +1,5 @@
+perf-testfiles.zip
+perf-testfiles/G12.dat
+perf-testfiles/GL7d14.dat
+testfiles/bigger-spgemm.dat
+.vscode/settings.json
